@@ -1,0 +1,7 @@
+python-telegram-bot
+yfinance
+pandas
+pytesseract
+pillow
+gspread
+oauth2client
